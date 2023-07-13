@@ -10,17 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9e3c7edbc99395547b62493aeaeb1465, type: 3}
-  m_Name: Proto
+  m_Name: BakuyaKanshou
   m_EditorClassIdentifier: 
-  folderName: Proto
+  folderName: BakuyaKanshou
   isDefault: 0
   addressableAssetGroups:
-  - {fileID: 11400000, guid: 8056bd77f330a8348bb12d7cb956bea0, type: 2}
-  selected: 0
-  exportAfterBuild: 0
+  - {fileID: 11400000, guid: ba50969efd0c3c24691c5e366109a6f9, type: 2}
+  selected: 1
+  exportAfterBuild: 1
   exportModManifest: 1
-  modName: Proto Assets
-  modDescription: Prototype asset mod example
-  modAuthor: Warpfrog
+  modName: BakuyaKanshou
+  modDescription: Archer's signature weapons
+  modAuthor: galawolf
   modVersion: 1.0
   modThumbnail: 
